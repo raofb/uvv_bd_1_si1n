@@ -1,4 +1,4 @@
-## Repositório - PSET 1
+## Repositório - PSETS
 
 **Aluno**: Raoni de Freitas Bandeira
 
@@ -8,4 +8,4 @@
 
 **Professor**: Abrantes Araújo Silva Filho
 
-**Descrição**: Este repositório tem por objetivo a entrega do PSET 1 da disciplina *Design e Desenvolvimento de Banco de Dados*
+**Descrição**: Este repositório tem por objetivo a entrega dos PSETS da disciplina *Design e Desenvolvimento de Banco de Dados*
