@@ -4,7 +4,7 @@
 
 **Turma**: SI1N
 
-**Data**: 11/2022
+**Data**: NOV/2022
 
 **Professor**: Abrantes Araújo Silva Filho
 
